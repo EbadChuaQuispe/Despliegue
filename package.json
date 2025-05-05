@@ -1,0 +1,16 @@
+{
+  "name": "desplegango-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ebad chua quispe <ebad.chua@tecsup.edu.pe>",
+  "license": "MIT",
+  "private": false,
+"scripts": {
+  "dev": "nodemon index",
+  "start": "node index.js"
+},
+  "devDependencies": {
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.10"
+  }
+}
